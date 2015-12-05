@@ -4,7 +4,7 @@
 pintruder v0.1.0
 ~~~~~~~~~~~~~~~~
 
-2015 - Ernesto Serrano <eserrano@trevenque.es>
+2015 - Ernesto Serrano <info@ernesto.es>
 
 Este programa se conecta a una hoja de Gooogle SpreadhSheet e introduce
 las lineas en primavera
