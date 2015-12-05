@@ -31,14 +31,3 @@ Por defecto oauth2 define una expiracón de una hora, para ampliarlo edite el ar
 
 ### Licencia
 Este script está licenciado como __GPLv3__
-
-
-Requisitos:
-
-
-pip install gspread
-pip install google-api-python-client
-
-
-
-"expires_in": 3600
