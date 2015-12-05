@@ -14,8 +14,7 @@ pip install google-api-python-client
 Este script se configura desde el fichero __pintruder.ini__
 
 ##Origen de datos
-Puede obtener una muestra del documento Google Docs desde el siguiente enlace:
-https://docs.google.com/spreadsheets/d/1VKH71gkWVxZ4WIaXqbo9fOUXwcGmqHmHsx9W6tmm-JM/edit?usp=sharing
+Puedes obtener una muestra del documento Google Docs mandándome un email a info@ernesto.es
 
 ###Compilación
 Puedes compilar este script con py2exe ejecutando:
