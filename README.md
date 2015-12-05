@@ -1,10 +1,10 @@
 # pintruder
 
-Este programa se conecta a una hoja de Gooogle SpreadhSheet e introduce
+Este script para python2.7 se conecta a una hoja de Gooogle SpreadhSheet e introduce
 las lineas en el ERP PrimaveraBSS
 
 ###Requisitos
-Este script requiere la instalación de los modulos __gspread__ y __google-api-python-client__ para instalarlos simplemente ejecute:
+Este script para __python2.7__ requiere la instalación de los modulos __gspread__ y __google-api-python-client__ para instalarlos simplemente ejecute:
 ```
 pip install gspread
 pip install google-api-python-client
