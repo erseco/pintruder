@@ -235,6 +235,7 @@ def send_date_day(day) :
     time.sleep(0.5)
     for n in day :
         send_key(n_to_keycode[int(n)])
+        time.sleep(0.5)
     time.sleep(1)
 
 def send_date_month(month) :
@@ -242,6 +243,7 @@ def send_date_month(month) :
     time.sleep(0.5)
     for n in month :
         send_key(n_to_keycode[int(n)])
+        time.sleep(0.5)
     time.sleep(1)
 
 def send_date_year(year) :
@@ -249,6 +251,7 @@ def send_date_year(year) :
     time.sleep(0.5)
     for n in year :
         send_key(n_to_keycode[int(n)])
+        time.sleep(0.5)
     time.sleep(1)
 
 def send_first_line() :
